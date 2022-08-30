@@ -6,5 +6,4 @@ public class Teacher extends Staff{
 		super(id, name, salary);
 	}
 
-
 }

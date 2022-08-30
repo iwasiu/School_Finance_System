@@ -93,5 +93,4 @@ public class Staff {
 				+ totalSalaryRecieve + ", getSalary()=" + getSalary() + "]";
 	}
 	
-	
 }

@@ -111,9 +111,5 @@ public class School {
 				+ ", TotalMoneySpent()=" + getTotalMoneySpent() + ", getBalance()=" + getBalance() + "]";
 	}
 	
-	
-
-	
-
 }
 

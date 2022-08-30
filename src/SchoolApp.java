@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 import school.School;
@@ -26,7 +25,6 @@ public class SchoolApp {
 		staffList.add(t1);
 		staffList.add(sec1);
 		
-		
 		School mySchool = new School(studentList, staffList);
 		System.out.println("School has recieved fee total: # "
 				+ mySchool.getTotalFeesRecieve());
@@ -48,8 +46,6 @@ public class SchoolApp {
 		System.out.println("######## school details ############");
 		System.out.println("THe school has the following:\n "+mySchool.toString());
 		
-	
-
 	}
 
 }
